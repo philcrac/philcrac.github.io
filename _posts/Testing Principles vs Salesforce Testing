@@ -1,0 +1,20 @@
+layout: post
+title: "Testing Principles vs Salesforce Testing"
+date: 2022-08-04 21:41
+categories: Salesforce Software Lifecycle Software Testing CRM
+
+
+Your organization has decided to boost its productivity by implementing a Customer Relationship Management tool.Needles to say, the organization's managemnent opts for Salesforce
+An in-house team or a contracted Salesforce Partner is working to capitalize on your Salesforce implementation by customizing the solution to align with your business goals.
+Just any other software undergoing a SDLC implementation of Salesforce as well as customizing your implementation beyond the out-of-the-box saleforce functionalities,testing your 
+your software at all the software lifecycle stages is vital for improvement of your current business processes.Testing reduces your chances of encountering failure that are frequent
+with third-party intergrations and process automation.
+
+As your oganization goes about tweaking salesforce to business needs, its absolutely necessary to adhere to the software testing principles.Here are some of the principles to regularly
+keep in mind.
+Early Testing
+Pesticide Paradox
+Defect Clustering
+Testing is context dependant
+Absence of error Fallacy
+Exhaustive Testing is not possible
